@@ -226,6 +226,7 @@ PROCEDURE:
 
 
 ## RESULT
-<img width="486" height="189" alt="image" src="https://github.com/user-attachments/assets/701b217d-6c45-4fee-87dd-5e304b13a6ca" />
+Thus, the Inverting, Non-Inverting, Differential, and Instrumentation Amplifiers were designed and their performance successfully tested using Op-Amp IC 741.
+
 
 
