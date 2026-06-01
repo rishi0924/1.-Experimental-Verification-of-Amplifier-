@@ -123,10 +123,12 @@ ACL = 1 + RF/R1
 7. Plot the input vs. output waveform for one practical case.
 
 ## TABULATION
-<img width="815" height="322" alt="image" src="https://github.com/user-attachments/assets/69b2b50a-589f-4e2c-b5b8-7a4311cda4d8" />
+<img width="1600" height="463" alt="21e0a169-dc1a-4b1a-9a22-dc8d5a611a06" src="https://github.com/user-attachments/assets/23646f7c-e055-45ce-928d-89ff13ad4fd4" />
+
 
 ## CALCULATION
-<img width="886" height="256" alt="image" src="https://github.com/user-attachments/assets/f2f95f37-d2de-4dd8-89a0-6e217eaa7e72" />
+<img width="1600" height="286" alt="34bcf42d-231a-44b7-b09a-02a4cdaa42eb" src="https://github.com/user-attachments/assets/c46ca80f-a352-4fc3-b69d-f08461be11a7" />
+
 
 ## OUT PUT WAVEFORM AND DISCUSSION 
 
@@ -180,7 +182,8 @@ Choose  R1 = 1kOhm, Rf = 10kOhm
 <img width="501" height="240" alt="image" src="https://github.com/user-attachments/assets/fa4dba1f-7577-43bd-8f1a-372392f2eb0b" />
 
 ## CALCULATION
-<img width="468" height="454" alt="image" src="https://github.com/user-attachments/assets/f97fd95f-6555-4234-a4c7-c91ca2f1cb11" />
+<img width="1599" height="393" alt="8f8bb36d-7f9a-4d96-ab39-b3f6c8169252" src="https://github.com/user-attachments/assets/1e30dbb3-3bc6-4c54-8e85-3c387b316044" />
+
 
 ## OUT PUT WAVEFORM AND DISCUSSION 
 <img width="1206" height="1600" alt="image" src="https://github.com/user-attachments/assets/d47cc1a9-5aaa-4cae-b45a-a550e7a66212" />
@@ -215,7 +218,8 @@ PROCEDURE:
 <img width="941" height="526" alt="image" src="https://github.com/user-attachments/assets/9263fecd-c02a-4b46-8584-8156e849f8b4" />
 
 ## CALCULATION
-<img width="266" height="248" alt="image" src="https://github.com/user-attachments/assets/56e5a705-1b8c-4512-bda6-be081ae86d3a" />
+<img width="1599" height="537" alt="796c9812-fb1a-424e-b9b2-e586ad2ea3b3" src="https://github.com/user-attachments/assets/dd95e718-fc70-4ff3-b264-a9dd0e11667f" />
+
 
 ## OUT PUT WAVEFORM AND DISCUSSION 
 <img width="1188" height="1600" alt="image" src="https://github.com/user-attachments/assets/6b541b80-03c2-4990-a222-529f3d0ffe84" />
